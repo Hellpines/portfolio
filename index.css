@@ -1,0 +1,173 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+body{
+    width: 1120px;
+    margin: auto;
+}
+header{
+    display: flex;
+    justify-content: space-between;
+    margin-top: 102px;
+}
+header .h1{
+    font: 500 50px DM Sans;
+    line-height: 48.6px;
+}
+header .paragraph-block{
+    font: 500 22px DM Sans;
+    line-height: 26.4px;
+    display: flex;
+    align-items: center;
+    gap: 30px;
+}
+main .preview{
+    display: flex;
+    margin-top: 135px;
+    justify-content: space-between;
+    align-items: center;
+    margin-bottom: 128px;
+}
+
+main .preview .left h1{
+    font: 500 60px DM Sans;
+    font-weight: 500;
+    line-height: 58.32px;
+    max-width: 200px;
+}
+main .preview p{
+    font: 400 32px DM Sans;
+    line-height: 37.44px;
+    color: #606060;
+}
+main .portfolio{
+    display: flex;
+    margin-top: 83px;
+    justify-content: space-between;
+    margin-bottom: 106px;
+}
+main .portfolio .right{
+    background: #606060;
+    width: 640px;
+    height: 365px;
+}
+main .portfolio .left .text-portfolio{
+    font:500 24px DM Sans;
+    line-height: 29.16px;
+    color: #181717;
+    margin-bottom: 25px;
+}
+main .portfolio .left .first-project{
+    font: 400 22px DM Sans;
+    line-height: 26.73px;
+    color: #181717;
+    margin-bottom: 40px;
+    max-width: 250px;
+}
+main .portfolio .left .frontend{
+    font: 400 22px DM Sans;
+    line-height: 26.73px;
+    color: #606060;
+    margin-bottom: 167px;
+}
+main .portfolio .left .more-shots{
+    text-decoration: underline;
+    font: 500 22px DM Sans;
+    line-height: 26.73px;
+    color: #181717;
+}
+main .project-1{
+    display: flex;
+    justify-content: space-between;
+    margin-bottom: 106px;
+}
+main .project-1 .right{
+    background: #606060;
+    width: 640px;
+    height: 365px;
+}
+main .project-1 .left .text-project{
+    font:500 24px DM Sans;
+    line-height: 29.16px;
+    color: #181717;
+    margin-bottom: 25px;
+}
+main .project-1 .left .second-project{
+    font: 400 22px DM Sans;
+    line-height: 26.73px;
+    color: #181717;
+    margin-bottom: 40px;
+    max-width: 360px;
+}
+main .project-1 .left .frontend{
+    font: 400 22px DM Sans;
+    line-height: 26.73px;
+    color: #606060;
+    margin-bottom: 145px;
+}
+main .project-1 .left .more-shots{
+    text-decoration: underline;
+    font: 500 22px DM Sans;
+    line-height: 26.73px;
+    color: #181717;
+}
+main .project-2{
+    display: flex;
+    justify-content: space-between;
+    margin-bottom: 128px;
+}
+main .project-2 .right{
+    background: #606060;
+    width: 640px;
+    height: 365px;
+}
+main .project-2 .left .text-project{
+    font:500 24px DM Sans;
+    line-height: 29.16px;
+    color: #181717;
+    margin-bottom: 25px;
+}
+main .project-2 .left .third-project{
+    font: 400 22px DM Sans;
+    line-height: 26.73px;
+    color: #181717;
+    margin-bottom: 40px;
+    max-width: 360px;
+}
+main .project-2 .left .frontend{
+    font: 400 22px DM Sans;
+    line-height: 26.73px;
+    color: #606060;
+    margin-bottom: 145px;
+}
+main .project-2 .left .more-shots{
+    text-decoration: underline;
+    font: 500 22px DM Sans;
+    line-height: 26.73px;
+    color: #181717;
+}
+.line{
+    height: 2px;
+    background: #181717;
+    margin-bottom: 114px;
+}
+footer{
+    display: flex;
+    justify-content: space-between;
+}
+footer .socials{
+    display: flex;
+}
+footer .name{
+    margin-right: 35px;
+    font: 500 22px DM Sans;
+    line-height: 26.4px;
+    color: #2429AF;
+}
+footer .socials .socials-item{
+    margin-right: 35px;
+    font: 500 22px DM Sans;
+    line-height: 26.4px;
+    color:  #181717;
+}
